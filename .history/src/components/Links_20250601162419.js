@@ -1,0 +1,20 @@
+const links = {
+    
+    Admin:[
+        { label: 'Dashboard', path: '/admin-dash', icon: 'dashboard' }
+
+    ],
+
+    Owner:[
+        { label:'Dashboard', path: '/owner-dash', icon: 'dashboard' }
+
+    ],
+
+    Customer:[
+        {label:'Dashboard', path:'/dashboard', icon: 'dashboard'},
+
+    ]
+
+}
+
+export default links;

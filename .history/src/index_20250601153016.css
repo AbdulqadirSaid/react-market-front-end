@@ -1,0 +1,5 @@
+.rounded-logo {
+  width: 100px; /* Adjust the size as needed */
+  height: 100px; /* Adjust the size as needed */
+  border-radius: 50%; /* Makes the image rounded */
+}

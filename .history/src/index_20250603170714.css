@@ -1,0 +1,31 @@
+.rounded-logo {
+  width: 100px; /* Adjust the size as needed */
+  height: 100px; /* Adjust the size as needed */
+  border-radius: 50%; /* Makes the image rounded */
+}
+
+
+.nav-link {
+  transition: background-color 0.3s ease;
+}
+
+.nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.1); /* Lighten background on hover */
+}
+    
+
+
+
+
+
+//
+
+/* Katika faili lako la CSS (mfano, src/index.css) */
+.market-card-hover {
+  transition: all 0.3s ease-in-out; /* Inafanya mabadiliko kuwa laini */
+}
+
+.market-card-hover:hover {
+  transform: translateY(-8px); /* Huinua kadi kidogo juu wakati unahamisha kielekezi juu yake */
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2) !important; /* Kivuli kinene zaidi */
+}

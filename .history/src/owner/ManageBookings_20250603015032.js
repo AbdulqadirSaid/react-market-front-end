@@ -1,0 +1,1 @@
+{ label:'Manage Market Info', path: '/market-info', icon: 'dashboard' }

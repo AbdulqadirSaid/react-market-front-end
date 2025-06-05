@@ -11,7 +11,7 @@ const Dashboard = () => {
       <div className="d-flex flex-grow-1">
         <Sidebar />
         <main className="flex-grow-1 p-4" style={{ backgroundColor: '#f8f9fa' }}>
-          <h2>Welcome to the Admin Dashboard</h2>
+          <h2>Welcome to the Owner Dashboard</h2>
           <p>Use the navigation bar to explore.</p>
           {/* Your dashboard content here */}
         </main>
